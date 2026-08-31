@@ -7,7 +7,7 @@ Discente: Davi Felski
 Docente: Amanda Paul Dull
 
 
-[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/kW1zwB95tHx-powerful-gogo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)
+[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/kW1zwB95tHx-powerful-gogo/)
 
 ## Enunciado: Controle de Microservo com Potenciômetro!
 O projeto vai utilizar um potenciômetro como entrada para controlar um micro servo como saída. Ao mexer o potenciômetro, o Arduino leva sinas para o micro servo se movimentar.
